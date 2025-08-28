@@ -51,6 +51,8 @@
       {"ip_is_private": true, "outbound": "🌐 全球直连"},
       {"clash_mode": "direct", "outbound": "🌐 全球直连"},
       {"clash_mode": "global", "outbound": "GLOBAL"},
+      {"domain_suffix": ["2838816.xyz"], "outbound": "🌐 全球直连"},
+      {"domain_keyword": ["emby"], "outbound": "🚀 默认代理"},
       {"rule_set": "geosite-ai", "outbound": "🤖️ 人工智能"},
       {"rule_set": "geosite-youtube", "outbound": "📹 YouTube"},
       {"rule_set": "geosite-google", "outbound": "🍀 Google"},
