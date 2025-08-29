@@ -52,6 +52,8 @@
       {"clash_mode": "direct", "outbound": "🌐 全球直连"},
       {"clash_mode": "global", "outbound": "GLOBAL"},
       {"domain_suffix": ["2838816.xyz"], "outbound": "🌐 全球直连"},
+      {"source_port": [9993], "outbound": "🌐 全球直连"},
+      {"port": [9993], "outbound": "🌐 全球直连"},
       {"domain_keyword": ["emby"], "outbound": "🎥 Emby"},
       {"rule_set": "geosite-ai", "outbound": "🤖️ 人工智能"},
       {"rule_set": "geosite-youtube", "outbound": "📹 YouTube"},
